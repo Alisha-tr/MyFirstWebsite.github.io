@@ -190,7 +190,7 @@ h5 {
   color: #e7e6e1;
 }
 
-@media(max-width:768px) {
+@media(max-width:480px) {
   #title {
     text-align: center;
   }
