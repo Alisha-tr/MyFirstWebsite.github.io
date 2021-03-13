@@ -210,5 +210,6 @@ h5 {
   .container {
     width: 100vw;
     height: 100vh;
+    width:fit-content;
   }
 }
